@@ -99,7 +99,7 @@ RGB-based vegetation indices
  
 The tool also creates some raster format for vegetation indices.
 
-![image](https://github.com/AliBgisrs/Vegetation-indices-calculator/assets/109620013/89dc784e-888e-4cd1-aedd-b95e6b025fff)
+![image](https://github.com/AliBgisrs/Vegetation-indices-calculator/assets/109620013/c9165d67-2c85-460a-acbb-15b62ac45193)
 
  
 Contributing
