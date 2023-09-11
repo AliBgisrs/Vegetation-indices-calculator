@@ -37,7 +37,7 @@ ARCGIS PRO
 
 [Go to the Catalog and find your folder in the Folders section and then find the tool with the name of VIsCalculation_Ali.atbx, then open it to find the script]
   
- ![image](https://github.com/AliBgisrs/Vegetation-indices-calculator/assets/109620013/baa860be-121a-4b94-9dac-6aaf25d1791e)
+![image](https://github.com/AliBgisrs/Vegetation-indices-calculator/assets/109620013/ca4d790c-5a44-4b66-ae7d-ad49758d3f95)
 
  ![image](https://github.com/AliBgisrs/Vegetation-indices-calculator/assets/109620013/957f2e3e-39bb-47b7-a861-7675d97f0ea1)
  
