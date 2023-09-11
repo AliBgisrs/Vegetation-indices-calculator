@@ -46,7 +46,7 @@ ARCGIS PRO
 
 [Double click and open the script]
 
-![image](https://github.com/AliBgisrs/Vegetation-indices-calculator/assets/109620013/13ebaac7-567e-444f-890e-ea572de5a1e5)
+![image](https://github.com/AliBgisrs/Vegetation-indices-calculator/assets/109620013/8a65a4f2-78fa-472f-9b17-2e7e3463a471)
 
 
  
