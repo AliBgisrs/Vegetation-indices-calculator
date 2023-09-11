@@ -66,7 +66,7 @@ Usage
 
 if you need the minimum, mean, and maximum values of spectral bands and vegetation indices in your study area or plots, this tool would be helpful. You need a feature layer of your case study or plot boundary. This layer should have a field with the name of New_ID that shows the unique ID for your plots (plot number). In addition, you need to have an image or tiff format of your separate bands (Red, Green, Blue, Rededge, and Nir) as input
 
-![image](https://github.com/AliBgisrs/Vegetation-indices-calculator/assets/109620013/5d54d07f-a52f-48b2-b3a2-a51442da96d9)
+![image](https://github.com/AliBgisrs/Vegetation-indices-calculator/assets/109620013/84bbf2ee-9e78-4d1e-a6e7-c1281c7d6bc4)
 
 
  
