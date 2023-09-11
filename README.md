@@ -26,7 +26,7 @@ Installation
 
 ARCGIS PRO
 
-[Download the tool and csv folder, put csv folder in your C drive.]
+[Download the tool]
 
 [Go to the insert tab of your ArcGIS PRO project]
 ![image](https://github.com/AliBgisrs/Vegetation-indices-calculator/assets/109620013/ca0d3a49-32a6-4bfb-af8a-6d3efa9253d2)
@@ -35,7 +35,7 @@ ARCGIS PRO
  
 [Select add folder and browse to the folder that you have saved your script and add that folder]
 
-[Go to the Catalog and find your folder in the Folders section and then find the tool with the name of CropHeightMetrics.atbx, then open it to find the script]
+[Go to the Catalog and find your folder in the Folders section and then find the tool with the name of VIsCalculation_Ali.atbx, then open it to find the script]
   
  ![image](https://github.com/AliBgisrs/Vegetation-indices-calculator/assets/109620013/baa860be-121a-4b94-9dac-6aaf25d1791e)
 
@@ -50,7 +50,7 @@ ARCGIS PRO
 
 
  
-[Call the input feature layer (your plot boundaries). Note: You should have a feature layer not shape file. Your feature layer should be a polygon.
+[Call the input feature layer (your plot boundaries). Note: You should have a feature layer (not shape file). Your feature layer should be a polygon.
 
 
 ![image](https://github.com/AliBgisrs/Vegetation-indices-calculator/assets/109620013/83575dde-6013-4cdf-addf-675ce12f8813)
@@ -58,9 +58,7 @@ ARCGIS PRO
 
 
  
-Before running the tool you should paste csv folder in your C drive directory to save the results on there. 
 
-![image](https://github.com/AliBgisrs/Vegetation-indices-calculator/assets/109620013/01764840-b3e5-42fd-b5f3-0849261feac7)
 
 
  
@@ -72,7 +70,7 @@ if you need the minimum, mean, and maximum values of spectral bands and vegetati
 
 
  
-After running the tool four excel file will be created in your csv folder at your C drive. In addition, if you open 6.gdb at your ARCMAP you can see the resulted raster and feature layers.
+After running the tool four excel file will be created in your directory folder. In addition, if you open 66.gdb by ARCMAP, you can see the resulted raster and feature layers.
 
 ![image](https://github.com/AliBgisrs/Vegetation-indices-calculator/assets/109620013/7a0c86d5-c076-4511-afbe-e39f604f6e9b)
 
