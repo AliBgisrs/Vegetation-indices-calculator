@@ -72,7 +72,7 @@ if you need the minimum, mean, and maximum values of spectral bands and vegetati
  
 After running the tool four excel file will be created in your directory folder. In addition, if you open 66.gdb by ARCMAP, you can see the resulted raster and feature layers.
 
-![image](https://github.com/AliBgisrs/Vegetation-indices-calculator/assets/109620013/7a0c86d5-c076-4511-afbe-e39f604f6e9b)
+![image](https://github.com/AliBgisrs/Vegetation-indices-calculator/assets/109620013/8721c8da-ce88-4bc0-b9b9-c8cf77c46264)
 
  
 The tool calculates some important statistical metrics including: minimum, mean, maximum of narrow spectral bands, RGB based vegetation indices, Red edge based vegetation indices and NIR based vegetation indices in each plot.
